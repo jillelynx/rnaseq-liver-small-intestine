@@ -51,6 +51,12 @@ The MDS plot demonstrates clear separation between liver and small intestine sam
 
 ![MDS Plot](MDS_plot.png)
 
+### Differential Expression Heatmap
+
+The heatmap highlights patterns of gene expression that distinguish liver and small intestine tissue samples.
+
+![Heatmap](heatmap.png)
+
 ## Biological Interpretation
 
 The results demonstrate strong tissue-specific gene expression patterns that reflect the specialized biological functions of the liver and small intestine.
