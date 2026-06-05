@@ -66,3 +66,9 @@ These baseline transcriptomic profiles provide a framework for understanding how
 Jill E. Lynch  
 University of Delaware  
 Graduate Certificate in Bioinformatics & Data Science
+
+## Repository Contents
+
+- Project report
+- Project documentation
+- Analysis summary
