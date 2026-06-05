@@ -35,6 +35,14 @@ How do baseline transcriptomic profiles differ between healthy liver and small i
 - Gene Ontology (GO)
 - KEGG
 
+## Code
+
+The `scripts/` folder contains an R Markdown workflow for the liver vs small intestine differential expression analysis using edgeR.
+
+Main script:
+
+- `scripts/edgeR_liver_small_intestine_workflow.Rmd`
+
 ## Key Results
 
 - Identified 11,300 significantly differentially expressed genes (FDR < 0.05)
