@@ -43,6 +43,14 @@ How do baseline transcriptomic profiles differ between healthy liver and small i
 - Liver tissue showed enrichment for coagulation and complement pathways
 - Small intestine tissue showed enrichment for mucosal defense and antimicrobial response pathways
 
+## Example Results
+
+### Multidimensional Scaling (MDS) Plot
+
+The MDS plot demonstrates clear separation between liver and small intestine samples based on global gene expression patterns.
+
+![MDS Plot](MDS_plot.png)
+
 ## Biological Interpretation
 
 The results demonstrate strong tissue-specific gene expression patterns that reflect the specialized biological functions of the liver and small intestine.
