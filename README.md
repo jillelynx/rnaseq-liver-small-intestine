@@ -43,6 +43,14 @@ How do baseline transcriptomic profiles differ between healthy liver and small i
 - Liver tissue showed enrichment for coagulation and complement pathways
 - Small intestine tissue showed enrichment for mucosal defense and antimicrobial response pathways
 
+## Biological Interpretation
+
+The results demonstrate strong tissue-specific gene expression patterns that reflect the specialized biological functions of the liver and small intestine.
+
+Liver tissue showed enrichment of pathways involved in coagulation, complement activation, and metabolic processing, while small intestine tissue showed enrichment of genes involved in immune defense, antimicrobial activity, and barrier function.
+
+These baseline transcriptomic profiles provide a framework for understanding how these tissues may respond to environmental contaminants such as microplastics.
+
 ## Skills Demonstrated
 
 - RNA-seq analysis
